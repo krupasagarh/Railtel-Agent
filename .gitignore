@@ -1,0 +1,9 @@
+.env
+logs/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.png
+railtel_captcha.png
+hathway_temp_captcha.png
